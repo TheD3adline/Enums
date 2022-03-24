@@ -18,4 +18,6 @@ public class Main {
             default: System.out.println("UNKNOWN ERROR");
         }
     }
+
+    //Enums are a special sort of class that allows using a human readable term like MONDAY or FRIDAY in the same context as an integer for program flow control, reduces error proneness
 }
